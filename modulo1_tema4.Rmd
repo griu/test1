@@ -11,7 +11,7 @@ output:
     toc: yes
     toc_depth: '6'
     df_print: paged
-subtitle: 'Tema: Herramientas de análisis: Programación en R Y programación en Python'
+subtitle: 'Tema: Herramientas de análisis: Programación en R Y programación en Python' 
 ---
 
 ```{r setup, include=FALSE}
